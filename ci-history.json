@@ -1,8 +1,10 @@
-{"updated":"2026-11-19T19:25:12Z",
+{"updated":"2026-11-19T19:31:39Z",
 "ci":[
 {"id":44596592179,"at":"2026-11-19T19:16:23Z","sha":"546999d1f","title":"Detail and Home hero: name HDR and Dolby Vision beside the resolution","pr":1348,"conclusion":"success","attempt":1,"jobs":{"which gates apply":5,"host lint + type-checks":337,"host unit tests (default features)":434,"host harness tests":224,"host unit tests (hostsim)":239,"host python/shell/C gates":192,"armv7 cross-build and artifact assertions":496,"host checks (NOT a device gate)":3,"cross-build (armv7) + artifact assertions":3}}
 ],
-"sim":[],
+"sim":[
+{"id":44596592272,"at":"2026-11-19T19:16:23Z","sha":"546999d1f","title":"Detail and Home hero: name HDR and Dolby Vision beside the resolution","pr":1348,"conclusion":"failure","attempt":1,"jobs":{"Windows launcher syntax":22,"Linux simulator build + launch":499}}
+],
 "nightly":[],
 "cancelled":{},
 "daily":[],
